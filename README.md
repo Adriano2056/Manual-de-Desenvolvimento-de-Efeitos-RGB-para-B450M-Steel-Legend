@@ -1,0 +1,2 @@
+# Manual-de-Desenvolvimento-de-Efeitos-RGB-para-B450M-Steel-Legend
+Explicações completas de todas as funções do controlador e do contexto (ctx),  Descrição técnica do fluxo interno de inicialização e execução de efeitos,  Exemplo de ciclo de vida de um efeito,  Mapa de LEDs da B450M Steel Legend,  Exemplos comentados de efeitos simples, intermediários e avançados,  Estrutura de pastas e boas práticas.
